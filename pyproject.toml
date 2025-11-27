@@ -1,0 +1,38 @@
+[project]
+name = "train-attendance"
+version = "0.1.0"
+description = "Repositorio que gestiona las pruebas de entrenamiento para el mcp de attendance"
+authors = [
+    {name = "NahumFGz",email = "ngutierrez2507@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "jupyter (>=1.1.1,<2.0.0)",
+    "opencv-python (>=4.11.0.86,<5.0.0.0)",
+    "pillow (>=11.2.1,<12.0.0)",
+    "langchain-text-splitters (>=0.3.8,<0.4.0)",
+    "langchain-community (>=0.3.24,<0.4.0)",
+    "langgraph (>=0.4.5,<0.5.0)",
+    "langchain[openai] (>=0.3.25,<0.4.0)",
+    "jq (>=1.8.0,<2.0.0)",
+    "qdrant-client (>=1.14.2,<2.0.0)",
+    "langchain-qdrant (>=0.2.0,<0.3.0)",
+    "langchain-mcp-adapters (>=0.1.0,<0.2.0)",
+    "python-dateutil (>=2.9.0.post0,<3.0.0)",
+    "psycopg2-binary (>=2.9.0,<3.0.0)",
+    "pandas (>=2.0.0,<3.0.0)",
+    "sqlalchemy (>=2.0.0,<3.0.0)",
+    "cuid2 (>=2.0.0,<3.0.0)",
+    "scikit-learn (>=1.7.1,<2.0.0)",
+    "matplotlib (>=3.10.6,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

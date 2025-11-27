@@ -1,0 +1,27 @@
+# Ambientes Virtuales de Python
+venv_*/
+
+# Ignorar datasets
+data/d_classified_dataset/*.png
+data/d_classified_dataset/*.jpg
+data/e_yolo_ocr_asistencia_jsons/*.json
+data/f_compressed/*.png
+
+# Ignorar qdrant_storage
+qdrant_storage/
+
+# Ignorar .env
+.env
+
+# Ignorar .rar, .zip
+*.zip
+*.7z
+*.parquet
+
+# Ignorar DS_Store
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.ipynb_checkpoints
