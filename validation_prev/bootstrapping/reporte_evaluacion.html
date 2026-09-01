@@ -1,0 +1,262 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reporte de Evaluación - Métodos de Recuperación</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        .metric-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: white;
+        }
+        .metric-table th, .metric-table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        .metric-table th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        .metric-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .metric-table tr:hover {
+            background-color: #e8f4f8;
+        }
+        .best-score {
+            background-color: #d4edda !important;
+            font-weight: bold;
+            color: #155724;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .summary-box {
+            background-color: #e8f4f8;
+            border-left: 5px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .method-name {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .confidence-interval {
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Reporte de Evaluación - Métodos de Recuperación</h1>
+        
+        <div class="summary-box">
+            <h3>📊 Resumen Ejecutivo</h3>
+            <p>Este reporte compara 4 métodos de recuperación de información usando bootstrapping 
+               con 5,000 muestras para calcular intervalos de confianza del 95%. 
+               Se evaluaron 6 métricas 
+               sobre un total de 100 preguntas.</p>
+        </div>
+
+        <h2>📈 Tabla Comparativa de Resultados</h2>
+        <table class="metric-table">
+            <thead>
+                <tr>
+                    <th>Método</th>
+                    <th>Precision@10</th>
+                    <th>MRR</th>
+                    <th>Top-1 Accuracy</th>
+                    <th>MAP</th>
+                    <th>Recall@10</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td class="method-name">Keyword Search</td>
+
+                    <td class="">
+                        0.3824<br>
+                        <span class="confidence-interval">[0.3000, 0.4640]</span>
+                    </td>
+
+                    <td class="">
+                        0.5215<br>
+                        <span class="confidence-interval">[0.4040, 0.6415]</span>
+                    </td>
+
+                    <td class="">
+                        0.4408<br>
+                        <span class="confidence-interval">[0.3000, 0.5800]</span>
+                    </td>
+
+                    <td class="">
+                        0.5750<br>
+                        <span class="confidence-interval">[0.4610, 0.6859]</span>
+                    </td>
+
+                    <td class="">
+                        0.7668<br>
+                        <span class="confidence-interval">[0.6573, 0.8692]</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="method-name">Bm25</td>
+
+                    <td class="">
+                        0.4491<br>
+                        <span class="confidence-interval">[0.3660, 0.5300]</span>
+                    </td>
+
+                    <td class="">
+                        0.8223<br>
+                        <span class="confidence-interval">[0.7125, 0.9200]</span>
+                    </td>
+
+                    <td class="">
+                        0.7996<br>
+                        <span class="confidence-interval">[0.6800, 0.9000]</span>
+                    </td>
+
+                    <td class="">
+                        0.8335<br>
+                        <span class="confidence-interval">[0.7276, 0.9286]</span>
+                    </td>
+
+                    <td class="">
+                        0.8206<br>
+                        <span class="confidence-interval">[0.7124, 0.9200]</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="method-name">Qdrant</td>
+
+                    <td class="best-score">
+                        0.8636<br>
+                        <span class="confidence-interval">[0.7640, 0.9440]</span>
+                    </td>
+
+                    <td class="best-score">
+                        0.9013<br>
+                        <span class="confidence-interval">[0.8200, 0.9800]</span>
+                    </td>
+
+                    <td class="best-score">
+                        0.9013<br>
+                        <span class="confidence-interval">[0.8200, 0.9800]</span>
+                    </td>
+
+                    <td class="best-score">
+                        0.8981<br>
+                        <span class="confidence-interval">[0.8105, 0.9768]</span>
+                    </td>
+
+                    <td class="best-score">
+                        0.8604<br>
+                        <span class="confidence-interval">[0.7651, 0.9451]</span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>📊 Gráficas Comparativas</h2>
+        
+        <div class="image-container">
+            <h3>Comparación con Intervalos de Confianza</h3>
+            <img src="comparacion_barras_ci.png" alt="Comparación de barras con intervalos de confianza">
+            <p>Esta gráfica muestra el rendimiento promedio de cada método con sus intervalos de confianza del {CONFIDENCE_LEVEL*100:.0f}%.</p>
+        </div>
+
+        <div class="image-container">
+            <h3>Análisis Multidimensional (Radar)</h3>
+            <img src="comparacion_radar.png" alt="Gráfica radar multidimensional">
+            <p>Visualización radar que permite comparar todos los métodos across múltiples métricas simultáneamente.</p>
+        </div>
+
+        <div class="image-container">
+            <h3>Heatmap de Rendimiento</h3>
+            <img src="heatmap_rendimiento.png" alt="Heatmap de rendimiento">
+            <p>Mapa de calor que muestra la intensidad del rendimiento de cada método en cada métrica.</p>
+        </div>
+
+        <div class="image-container">
+            <h3>Distribuciones Bootstrap</h3>
+            <img src="distribuciones_bootstrap.png" alt="Distribuciones bootstrap">
+            <p>Violin plots que muestran las distribuciones bootstrap de las métricas para cada método.</p>
+        </div>
+
+        <div class="image-container">
+            <h3>Ranking Promedio</h3>
+            <img src="ranking_promedio.png" alt="Ranking promedio de métodos">
+            <p>Ranking general de los métodos basado en el promedio de posiciones across todas las métricas.</p>
+        </div>
+
+        <h2>🏆 Conclusiones</h2>
+        <div class="summary-box">
+
+            <h4>🥇 Método Ganador: Qdrant</h4>
+            <p>Basado en el análisis de bootstrapping con intervalos de confianza del 95%, 
+               el método <strong>Qdrant</strong> 
+               muestra el mejor rendimiento promedio across todas las métricas evaluadas.</p>
+            
+            <h4>📋 Interpretación de Métricas:</h4>
+            <ul>
+                <li><strong>Precision@10:</strong> Proporción de documentos relevantes en los primeros 10 resultados</li>
+                <li><strong>MRR:</strong> Mean Reciprocal Rank - posición promedio del primer documento relevante</li>
+                <li><strong>Top-1 Accuracy:</strong> Proporción de consultas donde el primer resultado es relevante</li>
+                <li><strong>MAP:</strong> Mean Average Precision - precisión promedio considerando el orden</li>
+                <li><strong>Recall@10:</strong> Proporción de documentos relevantes recuperados en top-10</li>
+            </ul>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px; color: #7f8c8d;">
+            <p>Reporte generado automáticamente con bootstrapping estadístico</p>
+            <p>📅 Fecha de generación: 2026-08-31 22:15:04</p>
+        </div>
+    </div>
+</body>
+</html>

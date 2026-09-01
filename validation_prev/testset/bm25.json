@@ -1,0 +1,758 @@
+{
+  "fecha": [
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 22 de marzo de 2023?",
+      "context": [
+        "Asistencia del 03 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/152_pp2021_2026_pa2022_2023_leg2_page_49.png",
+        "Asistencia del 09 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/151_pp2021_2026_pa2022_2023_leg2_page_17.png",
+        "Asistencia del 22 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/150_pp2021_2026_pa2022_2023_leg2_page_10.png",
+        "Asistencia del 23 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/149_pp2021_2026_pa2022_2023_leg2_page_63.png",
+        "Asistencia del 29 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/148_pp2021_2026_pa2022_2023_leg2_page_38.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/147_pp2021_2026_pa2022_2023_leg2_page_14.png",
+        "Asistencia del 01 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/085_pp2021_2026_pa2023_2024_leg2_page_4.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/084_pp2021_2026_pa2023_2024_leg2_page_10.png",
+        "Asistencia del 07 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/083_pp2021_2026_pa2023_2024_leg2_page_28.png",
+        "Asistencia del 11 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/082_pp2021_2026_pa2023_2024_leg2_page_29.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 16 de diciembre de 2021?",
+      "context": [
+        "Asistencia del 02 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/926_pp2006_2011_pa2009_2010_leg1_page_8.png",
+        "Asistencia del 03 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/925_pp2006_2011_pa2009_2010_leg1_page_30.png",
+        "Asistencia del 10 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/924_pp2006_2011_pa2009_2010_leg1_page_21.png",
+        "Asistencia del 15 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/923_pp2006_2011_pa2009_2010_leg1_page_8.png",
+        "Asistencia del 16 de diciembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/922_pp2006_2011_pa2009_2010_leg1_page_9.png",
+        "Asistencia del 17 de diciembre del 2009 – Prigiera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/921_pp2006_2011_pa2009_2010_leg1_page_31.png",
+        "Asistencia del 02 de diciembre del 2010 – - Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/867_pp2006_2011_pa2010_2011_leg1_page_19.png",
+        "Asistencia del 09 de diciembre del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/866_pp2006_2011_pa2010_2011_leg1_page_22.png",
+        "Asistencia del 15 de diciembre del 2010 – * Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/865_pp2006_2011_pa2010_2011_leg1_page_21.png",
+        "Asistencia del 16 de diciembre del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/864_pp2006_2011_pa2010_2011_leg1_page_24.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 18 de septiembre de 2024?",
+      "context": [
+        "Asistencia del 04 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/049_pp2021_2026_pa2024_2025_leg1_page_18.png",
+        "Asistencia del 11 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/047_pp2021_2026_pa2024_2025_leg1_page_18.png",
+        "Asistencia del 12 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/046_pp2021_2026_pa2024_2025_leg1_page_1.png",
+        "Asistencia del 17 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/045_pp2021_2026_pa2024_2025_leg1_page_2.png",
+        "Asistencia del 18 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/044_pp2021_2026_pa2024_2025_leg1_page_31.png",
+        "Asistencia del 19 de septiembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/043_pp2021_2026_pa2024_2025_leg1_page_41.png",
+        "Asistencia del 06 de septiembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/121_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 07 de septiembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/120_pp2021_2026_pa2023_2024_leg1_page_47.png",
+        "Asistencia del 13 de septiembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/119_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 14 de septiembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/118_pp2021_2026_pa2023_2024_leg1_page_55.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 27 de noviembre de 2017?",
+      "context": [
+        "Asistencia del 02 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/508_pp2016_2021_pa2017_2018_leg1_page_34.png",
+        "Asistencia del 09 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/507_pp2016_2021_pa2017_2018_leg1_page_45.png",
+        "Asistencia del 15 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/506_pp2016_2021_pa2017_2018_leg1_page_21.png",
+        "Asistencia del 27 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/505_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 28 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/504_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 29 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/503_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 30 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/502_pp2016_2021_pa2017_2018_leg1_page_2.png",
+        "Asistencia del 10 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/556_pp2016_2021_pa2016_2017_leg1_page_22.png",
+        "Asistencia del 24 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/555_pp2016_2021_pa2016_2017_leg1_page_21.png",
+        "Asistencia del 25 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/554_pp2016_2021_pa2016_2017_leg1_page_1.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 27 de julio de 2022?",
+      "context": [
+        "Asistencia del 06 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/210_pp2021_2026_pa2021_2022_leg2_page_21.png",
+        "Asistencia del 08 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/209_pp2021_2026_pa2021_2022_leg2_page_22.png",
+        "Asistencia del 12 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/208_pp2021_2026_pa2021_2022_leg2_page_32.png",
+        "Asistencia del 14 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/207_pp2021_2026_pa2021_2022_leg2_page_33.png",
+        "Asistencia del 15 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/205_pp2021_2026_pa2021_2022_leg2_page_36.png",
+        "Asistencia del 15 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/206_pp2021_2026_pa2021_2022_leg2_page_59.png",
+        "Asistencia del 26 de julio del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/204_pp2021_2026_pa2021_2022_leg2_page_1.png",
+        "Asistencia del 27 de julio del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/203_pp2021_2026_pa2022_2023_leg0_page_1.png",
+        "Asistencia del 28 de julio del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/202_pp2021_2026_pa2022_2023_leg1_page_1.png",
+        "Asistencia del 30 de julio del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/201_pp2021_2026_pa2022_2023_leg1_page_4.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 6 de octubre de 2022?",
+      "context": [
+        "Asistencia del 06 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/186_pp2021_2026_pa2022_2023_leg1_page_64.png",
+        "Asistencia del 13 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/185_pp2021_2026_pa2022_2023_leg1_page_61.png",
+        "Asistencia del 19 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/184_pp2021_2026_pa2022_2023_leg1_page_2.png",
+        "Asistencia del 20 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/183_pp2021_2026_pa2022_2023_leg1_page_54.png",
+        "Asistencia del 21 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/182_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 06 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/260_pp2021_2026_pa2021_2022_leg1_page_1.png",
+        "Asistencia del 19 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/259_pp2021_2026_pa2021_2022_leg1_page_10.png",
+        "Asistencia del 21 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/258_pp2021_2026_pa2021_2022_leg1_page_27.png",
+        "Asistencia del 25 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/257_pp2021_2026_pa2021_2022_leg1_page_1.png",
+        "Asistencia del 28 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/256_pp2021_2026_pa2021_2022_leg1_page_36.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 14 de diciembre de 2024?",
+      "context": [
+        "Asistencia del 04 de diciembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/021_pp2021_2026_pa2024_2025_leg1_page_42.png",
+        "Asistencia del 05 de diciembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/020_pp2021_2026_pa2024_2025_leg1_page_50.png",
+        "Asistencia del 11 de diciembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/019_pp2021_2026_pa2024_2025_leg1_page_74.png",
+        "Asistencia del 12 de diciembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/018_pp2021_2026_pa2024_2025_leg1_page_78.png",
+        "Asistencia del 14 de diciembre del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/017_pp2021_2026_pa2024_2025_leg1_page_84.png",
+        "Asistencia del 05 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/092_pp2021_2026_pa2023_2024_leg1_page_4.png",
+        "Asistencia del 06 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/091_pp2021_2026_pa2023_2024_leg1_page_7.png",
+        "Asistencia del 06 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/090_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 13 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/089_pp2021_2026_pa2023_2024_leg1_page_32.png",
+        "Asistencia del 14 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/088_pp2021_2026_pa2023_2024_leg1_page_61.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 26 de junio de 2013?",
+      "context": [
+        "Asistencia del 07 de junio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/739_pp2011_2016_pa2012_2013_leg2_page_27.png",
+        "Asistencia del 12 de junio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/738_pp2011_2016_pa2012_2013_leg2_page_8.png",
+        "Asistencia del 13 de junio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/737_pp2011_2016_pa2012_2013_leg2_page_1.png",
+        "Asistencia del 20 de junio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/736_pp2011_2016_pa2012_2013_leg2_page_31.png",
+        "Asistencia del 26 de junio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/735_pp2011_2016_pa2012_2013_leg2_page_17.png",
+        "Asistencia del 04 de junio del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/685_pp2011_2016_pa2013_2014_leg2_page_11.png",
+        "Asistencia del 05 de junio del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/684_pp2011_2016_pa2013_2014_leg2_page_8.png",
+        "Asistencia del 11 de junio del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/683_pp2011_2016_pa2013_2014_leg2_page_31.png",
+        "Asistencia del 12 de junio del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/682_pp2011_2016_pa2013_2014_leg2_page_11.png",
+        "Asistencia del 18 de junio del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/681_pp2011_2016_pa2013_2014_leg2_page_7.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 24 de abril de 2017?",
+      "context": [
+        "Asistencia del 06 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/545_pp2016_2021_pa2016_2017_leg2_page_10.png",
+        "Asistencia del 12 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/544_pp2016_2021_pa2016_2017_leg2_page_17.png",
+        "Asistencia del 20 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/543_pp2016_2021_pa2016_2017_leg2_page_23.png",
+        "Asistencia del 24 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/542_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 25 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/541_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 03 de abril del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/490_pp2016_2021_pa2017_2018_leg2_page_6.png",
+        "Asistencia del 05 de abril del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/489_pp2016_2021_pa2017_2018_leg2_page_33.png",
+        "Asistencia del 10 de abril del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/488_pp2016_2021_pa2017_2018_leg2_page_2.png",
+        "Asistencia del 19 de abril del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/487_pp2016_2021_pa2017_2018_leg2_page_34.png",
+        "Asistencia del 01 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/548_pp2016_2021_pa2016_2017_leg2_page_2.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 17 de mayo de 2018?",
+      "context": [
+        "Asistencia del 02 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/486_pp2016_2021_pa2017_2018_leg2_page_2.png",
+        "Asistencia del 03 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/485_pp2016_2021_pa2017_2018_leg2_page_10.png",
+        "Asistencia del 10 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/484_pp2016_2021_pa2017_2018_leg2_page_34.png",
+        "Asistencia del 17 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/483_pp2016_2021_pa2017_2018_leg2_page_42.png",
+        "Asistencia del 22 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/482_pp2016_2021_pa2017_2018_leg2_page_20.png",
+        "Asistencia del 24 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/481_pp2016_2021_pa2017_2018_leg2_page_28.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/427_pp2016_2021_pa2018_2019_leg2_page_21.png",
+        "Asistencia del 03 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/426_pp2016_2021_pa2018_2019_leg2_page_2.png",
+        "Asistencia del 08 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/425_pp2016_2021_pa2018_2019_leg2_page_28.png",
+        "Asistencia del 09 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/424_pp2016_2021_pa2018_2019_leg2_page_2.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 20 de junio de 2023?",
+      "context": [
+        "Asistencia del 09 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/134_pp2021_2026_pa2022_2023_leg2_page_41.png",
+        "Asistencia del 14 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/133_pp2021_2026_pa2022_2023_leg2_page_19.png",
+        "Asistencia del 16 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/132_pp2021_2026_pa2022_2023_leg2_page_41.png",
+        "Asistencia del 20 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/131_pp2021_2026_pa2022_2023_leg2_page_32.png",
+        "Asistencia del 21 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/130_pp2021_2026_pa2022_2023_leg2_page_45.png",
+        "Asistencia del 23 de junio del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/129_pp2021_2026_pa2022_2023_leg2_page_121.png",
+        "Asistencia del 05 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/062_pp2021_2026_pa2023_2024_leg2_page_35.png",
+        "Asistencia del 06 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/061_pp2021_2026_pa2023_2024_leg2_page_43.png",
+        "Asistencia del 11 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/060_pp2021_2026_pa2023_2024_leg2_page_48.png",
+        "Asistencia del 12 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/059_pp2021_2026_pa2023_2024_leg2_page_33.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 5 de octubre de 2017?",
+      "context": [
+        "Asistencia del 04 de octubre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/512_pp2016_2021_pa2017_2018_leg1_page_14.png",
+        "Asistencia del 05 de octubre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/511_pp2016_2021_pa2017_2018_leg1_page_10.png",
+        "Asistencia del 12 de octubre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/510_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 19 de octubre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/509_pp2016_2021_pa2017_2018_leg1_page_29.png",
+        "Asistencia del 13 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/559_pp2016_2021_pa2016_2017_leg1_page_21.png",
+        "Asistencia del 20 de octubre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/558_pp2016_2021_pa2016_2017_leg1_page_25.png",
+        "Asistencia del 27 de octubre del 2016 – “Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/557_pp2016_2021_pa2016_2017_leg1_page_25.png",
+        "Asistencia del 01 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/548_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 08 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/547_pp2016_2021_pa2016_2017_leg2_page_7.png",
+        "Asistencia del 09 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/546_pp2016_2021_pa2016_2017_leg2_page_12.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 11 de agosto de 2016?",
+      "context": [
+        "Asistencia del 05 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/889_pp2006_2011_pa2010_2011_leg1_page_2.png",
+        "Asistencia del 12 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/888_pp2006_2011_pa2010_2011_leg1_page_7.png",
+        "Asistencia del 19 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/887_pp2006_2011_pa2010_2011_leg1_page_6.png",
+        "Asistencia del 02 de agosto del 2011 – Primers Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/836_pp2011_2016_pa2011_2012_leg1_page_4.png",
+        "Asistencia del 04 de agosto del 2011 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/835_pp2011_2016_pa2011_2012_leg1_page_2.png",
+        "Asistencia del 11 de agosto del 2011 – Primera Legisiatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/834_pp2011_2016_pa2011_2012_leg1_page_8.png",
+        "Asistencia del 23 de agosto del 2011 – * Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/833_pp2011_2016_pa2011_2012_leg1_page_4.png",
+        "Asistencia del 03 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/787_pp2011_2016_pa2012_2013_leg1_page_4.png",
+        "Asistencia del 09 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/786_pp2011_2016_pa2012_2013_leg1_page_16.png",
+        "Asistencia del 16 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/785_pp2011_2016_pa2012_2013_leg1_page_2.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 20 de julio de 2018?",
+      "context": [
+        "Asistencia del 20 de julio del 2018 – Primera Legislatura Extraordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/495_pp2016_2021_pa2017_2018_leg1_page_2.png",
+        "Asistencia del 23 de julio del 2018 – Segunda Legislatura Extraordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/474_pp2016_2021_pa2017_2018_leg2_page_2.png",
+        "Asistencia del 26 de julio del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/475_pp2016_2021_pa2017_2018_leg2_page_1.png",
+        "Asistencia del 27 de julio del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/473_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 31 de julio del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/472_pp2016_2021_pa2018_2019_leg1_page_2.png",
+        "Asistencia del 11 de julio del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/417_pp2016_2021_pa2018_2019_leg2_page_7.png",
+        "Asistencia del 22 de julio del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/416_pp2016_2021_pa2018_2019_leg2_page_7.png",
+        "Asistencia del 23 de julio del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/415_pp2016_2021_pa2018_2019_leg2_page_9.png",
+        "Asistencia del 24 de julio del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/414_pp2016_2021_pa2018_2019_leg2_page_8.png",
+        "Asistencia del 25 de julio del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/413_pp2016_2021_pa2018_2019_leg2_page_13.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 13 de junio de 2024?",
+      "context": [
+        "Asistencia del 05 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/062_pp2021_2026_pa2023_2024_leg2_page_35.png",
+        "Asistencia del 06 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/061_pp2021_2026_pa2023_2024_leg2_page_43.png",
+        "Asistencia del 11 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/060_pp2021_2026_pa2023_2024_leg2_page_48.png",
+        "Asistencia del 12 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/059_pp2021_2026_pa2023_2024_leg2_page_33.png",
+        "Asistencia del 13 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/058_pp2021_2026_pa2023_2024_leg2_page_19.png",
+        "Asistencia del 14 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/057_pp2021_2026_pa2023_2024_leg2_page_29.png",
+        "Asistencia del 15 de junio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/056_pp2021_2026_pa2023_2024_leg2_page_16.png",
+        "Asistencia del 01 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/085_pp2021_2026_pa2023_2024_leg2_page_4.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/084_pp2021_2026_pa2023_2024_leg2_page_10.png",
+        "Asistencia del 07 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/083_pp2021_2026_pa2023_2024_leg2_page_28.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 21 de mayo de 2014?",
+      "context": [
+        "Asistencia del 07 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/691_pp2011_2016_pa2013_2014_leg2_page_16.png",
+        "Asistencia del 08 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/690_pp2011_2016_pa2013_2014_leg2_page_1.png",
+        "Asistencia del 14 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/689_pp2011_2016_pa2013_2014_leg2_page_21.png",
+        "Asistencia del 15 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/688_pp2011_2016_pa2013_2014_leg2_page_10.png",
+        "Asistencia del 21 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/687_pp2011_2016_pa2013_2014_leg2_page_2.png",
+        "Asistencia del 22 de mayo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/686_pp2011_2016_pa2013_2014_leg2_page_7.png",
+        "Asistencia del 01 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/634_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 14 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/633_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/631_pp2011_2016_pa2014_2015_leg2_page_2.png",
+        "Asistencia del 15 de mayo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/632_pp2011_2016_pa2014_2015_leg2_page_11.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 30 de octubre de 2023?",
+      "context": [
+        "Asistencia del 04 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/114_pp2021_2026_pa2023_2024_leg1_page_17.png",
+        "Asistencia del 05 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/113_pp2021_2026_pa2023_2024_leg1_page_34.png",
+        "Asistencia del 05 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/112_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 11 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/111_pp2021_2026_pa2023_2024_leg1_page_2.png",
+        "Asistencia del 12 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/110_pp2021_2026_pa2023_2024_leg1_page_36.png",
+        "Asistencia del 18 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/109_pp2021_2026_pa2023_2024_leg1_page_33.png",
+        "Asistencia del 19 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/108_pp2021_2026_pa2023_2024_leg1_page_30.png",
+        "Asistencia del 20 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/107_pp2021_2026_pa2023_2024_leg1_page_6.png",
+        "Asistencia del 30 de octubre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/106_pp2021_2026_pa2023_2024_leg1_page_2.png",
+        "Asistencia del 06 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/186_pp2021_2026_pa2022_2023_leg1_page_64.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 15 de noviembre de 2017?",
+      "context": [
+        "Asistencia del 02 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/508_pp2016_2021_pa2017_2018_leg1_page_34.png",
+        "Asistencia del 09 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/507_pp2016_2021_pa2017_2018_leg1_page_45.png",
+        "Asistencia del 15 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/506_pp2016_2021_pa2017_2018_leg1_page_21.png",
+        "Asistencia del 27 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/505_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 28 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/504_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 29 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/503_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 30 de noviembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/502_pp2016_2021_pa2017_2018_leg1_page_2.png",
+        "Asistencia del 10 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/556_pp2016_2021_pa2016_2017_leg1_page_22.png",
+        "Asistencia del 24 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/555_pp2016_2021_pa2016_2017_leg1_page_21.png",
+        "Asistencia del 25 de noviembre del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/554_pp2016_2021_pa2016_2017_leg1_page_1.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 10 de mayo de 2012?",
+      "context": [
+        "Asistencia del 02 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/800_pp2011_2016_pa2011_2012_leg2_page_4.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/799_pp2011_2016_pa2011_2012_leg2_page_16.png",
+        "Asistencia del 03 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/798_pp2011_2016_pa2011_2012_leg2_page_1.png",
+        "Asistencia del 10 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/797_pp2011_2016_pa2011_2012_leg2_page_23.png",
+        "Asistencia del 16 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012..\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/796_pp2011_2016_pa2011_2012_leg2_page_11.png",
+        "Asistencia del 17 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/795_pp2011_2016_pa2011_2012_leg2_page_22.png",
+        "Asistencia del 23 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/794_pp2011_2016_pa2011_2012_leg2_page_10.png",
+        "Asistencia del 24 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/793_pp2011_2016_pa2011_2012_leg2_page_29.png",
+        "Asistencia del 31 de mayo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/792_pp2011_2016_pa2011_2012_leg2_page_18.png",
+        "Asistencia del 02 de mayo del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/745_pp2011_2016_pa2012_2013_leg2_page_12.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 1 de febrero de 2019?",
+      "context": [
+        "Asistencia del 01 de febrero del 2019 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/438_pp2016_2021_pa2018_2019_leg1_page_25.png",
+        "Asistencia del 07 de enero del 2019 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/441_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 29 de enero del 2019 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/440_pp2016_2021_pa2018_2019_leg1_page_6.png",
+        "Asistencia del 30 de enero del 2019 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/439_pp2016_2021_pa2018_2019_leg1_page_19.png",
+        "Asistencia del 07 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/437_pp2016_2021_pa2018_2019_leg2_page_13.png",
+        "Asistencia del 08 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/436_pp2016_2021_pa2018_2019_leg2_page_8.png",
+        "Asistencia del 14 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/435_pp2016_2021_pa2018_2019_leg2_page_28.png",
+        "Asistencia del 21 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/434_pp2016_2021_pa2018_2019_leg2_page_2.png",
+        "Asistencia del 22 de marzo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/433_pp2016_2021_pa2018_2019_leg2_page_6.png",
+        "Asistencia del 03 de abril del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/432_pp2016_2021_pa2018_2019_leg2_page_13.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 5 de septiembre de 2018?",
+      "context": [
+        "Asistencia del 06 de septiembre del 2018 – Sesión Extraordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/466_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 05 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/468_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 06 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/467_pp2016_2021_pa2018_2019_leg1_page_11.png",
+        "Asistencia del 13 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/465_pp2016_2021_pa2018_2019_leg1_page_18.png",
+        "Asistencia del 18 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/464_pp2016_2021_pa2018_2019_leg1_page_4.png",
+        "Asistencia del 19 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/463_pp2016_2021_pa2018_2019_leg1_page_2.png",
+        "Asistencia del 26 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/462_pp2016_2021_pa2018_2019_leg1_page_23.png",
+        "Asistencia del 07 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/517_pp2016_2021_pa2017_2018_leg1_page_39.png",
+        "Asistencia del 08 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/516_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 13 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/515_pp2016_2021_pa2017_2018_leg1_page_10.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 3 de marzo de 2011?",
+      "context": [
+        "Asistencia del 03 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/861_pp2006_2011_pa2010_2011_leg2_page_5.png",
+        "Asistencia del 10 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/860_pp2006_2011_pa2010_2011_leg2_page_1.png",
+        "Asistencia del 17 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/859_pp2006_2011_pa2010_2011_leg2_page_15.png",
+        "Asistencia del 24 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/858_pp2006_2011_pa2010_2011_leg2_page_15.png",
+        "Asistencia del 31 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/857_pp2006_2011_pa2010_2011_leg2_page_7.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/809_pp2011_2016_pa2011_2012_leg2_page_14.png",
+        "Asistencia del 15 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/808_pp2011_2016_pa2011_2012_leg2_page_24.png",
+        "Asistencia del 20 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/807_pp2011_2016_pa2011_2012_leg2_page_1.png",
+        "Asistencia del 22 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/806_pp2011_2016_pa2011_2012_leg2_page_13.png",
+        "Asistencia del 23 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/805_pp2011_2016_pa2011_2012_leg2_page_1.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 16 de julio de 2021?",
+      "context": [
+        "Asistencia del 06 de julio del 2011 – Legislatura extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/838_pp2006_2011_pa2010_2011_leg2_page_6.png",
+        "Asistencia del 07 de julio del 2011 – Legislatura Extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/837_pp2006_2011_pa2010_2011_leg2_page_9.png",
+        "Asistencia del 27 de julio del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/892_pp2006_2011_pa2010_2011_leg1_page_1.png",
+        "Asistencia del 26 de julio del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/789_pp2011_2016_pa2012_2013_leg1_page_1.png",
+        "Asistencia del 27 de julio del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/788_pp2011_2016_pa2012_2013_leg1_page_1.png",
+        "Asistencia del 02 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/734_pp2011_2016_pa2012_2013_leg2_page_6.png",
+        "Asistencia del 04 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/733_pp2011_2016_pa2012_2013_leg2_page_11.png",
+        "Asistencia del 16 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/732_pp2011_2016_pa2012_2013_leg2_page_21.png",
+        "Asistencia del 17 de julio del 2013 – Segunda Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/731_pp2011_2016_pa2012_2013_leg2_page_31.png",
+        "Asistencia del 24 de julio del 2013 – Primera Legislatura Extraordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/756_pp2011_2016_pa2012_2013_leg1_page_6.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 1 de julio de 2024?",
+      "context": [
+        "Asistencia del 01 de julio del 2024 – Primera Legislatura Extraordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/086_pp2021_2026_pa2023_2024_leg1_page_4.png",
+        "Asistencia del 26 de julio del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/055_pp2021_2026_pa2023_2024_leg2_page_1.png",
+        "Asistencia del 27 de julio del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/054_pp2021_2026_pa2024_2025_leg1_page_1.png",
+        "Asistencia del 28 de julio del 2024 – Primera Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/053_pp2021_2026_pa2024_2025_leg1_page_1.png",
+        "Asistencia del 27 de julio del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/127_pp2021_2026_pa2023_2024_leg0_page_1.png",
+        "Asistencia del 28 de julio del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/126_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 01 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/085_pp2021_2026_pa2023_2024_leg2_page_4.png",
+        "Asistencia del 06 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/084_pp2021_2026_pa2023_2024_leg2_page_10.png",
+        "Asistencia del 07 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/083_pp2021_2026_pa2023_2024_leg2_page_28.png",
+        "Asistencia del 11 de marzo del 2024 – Segunda Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/082_pp2021_2026_pa2023_2024_leg2_page_29.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 5 de diciembre de 2023?",
+      "context": [
+        "Asistencia del 05 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/092_pp2021_2026_pa2023_2024_leg1_page_4.png",
+        "Asistencia del 06 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/091_pp2021_2026_pa2023_2024_leg1_page_7.png",
+        "Asistencia del 06 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/090_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 13 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/089_pp2021_2026_pa2023_2024_leg1_page_32.png",
+        "Asistencia del 14 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/088_pp2021_2026_pa2023_2024_leg1_page_61.png",
+        "Asistencia del 15 de diciembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/087_pp2021_2026_pa2023_2024_leg1_page_24.png",
+        "Asistencia del 01 de diciembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/174_pp2021_2026_pa2022_2023_leg1_page_6.png",
+        "Asistencia del 07 de diciembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/173_pp2021_2026_pa2022_2023_leg1_page_1.png",
+        "Asistencia del 12 de diciembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/172_pp2021_2026_pa2022_2023_leg1_page_21.png",
+        "Asistencia del 12 de diciembre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/171_pp2021_2026_pa2022_2023_leg1_page_2.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 3 de agosto de 2017?",
+      "context": [
+        "Asistencia del 03 de agosto del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/523_pp2016_2021_pa2017_2018_leg1_page_13.png",
+        "Asistencia del 10 de agosto del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/522_pp2016_2021_pa2017_2018_leg1_page_4.png",
+        "Asistencia del 17 de agosto del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/521_pp2016_2021_pa2017_2018_leg1_page_17.png",
+        "Asistencia del 24 de agosto del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/520_pp2016_2021_pa2017_2018_leg1_page_38.png",
+        "Asistencia del 25 de agosto del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/519_pp2016_2021_pa2017_2018_leg1_page_8.png",
+        "Asistencia del 04 de agosto del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/571_pp2016_2021_pa2016_2017_leg1_page_2.png",
+        "Asistencia del 11 de agosto del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/570_pp2016_2021_pa2016_2017_leg1_page_17.png",
+        "Asistencia del 18 de agosto del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/569_pp2016_2021_pa2016_2017_leg1_page_2.png",
+        "Asistencia del 19 de agosto del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/568_pp2016_2021_pa2016_2017_leg1_page_1.png",
+        "Asistencia del 25 de agosto del 2016 – Primera Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/567_pp2016_2021_pa2016_2017_leg1_page_13.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 26 de septiembre de 2018?",
+      "context": [
+        "Asistencia del 06 de septiembre del 2018 – Sesión Extraordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/466_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 05 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/468_pp2016_2021_pa2018_2019_leg1_page_1.png",
+        "Asistencia del 06 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/467_pp2016_2021_pa2018_2019_leg1_page_11.png",
+        "Asistencia del 13 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/465_pp2016_2021_pa2018_2019_leg1_page_18.png",
+        "Asistencia del 18 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/464_pp2016_2021_pa2018_2019_leg1_page_4.png",
+        "Asistencia del 19 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/463_pp2016_2021_pa2018_2019_leg1_page_2.png",
+        "Asistencia del 26 de septiembre del 2018 – Primera Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/462_pp2016_2021_pa2018_2019_leg1_page_23.png",
+        "Asistencia del 07 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/517_pp2016_2021_pa2017_2018_leg1_page_39.png",
+        "Asistencia del 08 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/516_pp2016_2021_pa2017_2018_leg1_page_1.png",
+        "Asistencia del 13 de septiembre del 2017 – Primera Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/515_pp2016_2021_pa2017_2018_leg1_page_10.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 21 de marzo de 2025?",
+      "context": [
+        "Asistencia del 06 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/016_pp2021_2026_pa2024_2025_leg2_page_56.png",
+        "Asistencia del 12 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/015_pp2021_2026_pa2024_2025_leg2_page_43.png",
+        "Asistencia del 13 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/014_pp2021_2026_pa2024_2025_leg2_page_63.png",
+        "Asistencia del 19 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/013_pp2021_2026_pa2024_2025_leg2_page_22.png",
+        "Asistencia del 20 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/012_pp2021_2026_pa2024_2025_leg2_page_52.png",
+        "Asistencia del 21 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/011_pp2021_2026_pa2024_2025_leg2_page_14.png",
+        "Asistencia del 02 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/010_pp2021_2026_pa2024_2025_leg2_page_40.png",
+        "Asistencia del 03 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/009_pp2021_2026_pa2024_2025_leg2_page_47.png",
+        "Asistencia del 09 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/008_pp2021_2026_pa2024_2025_leg2_page_1.png",
+        "Asistencia del 10 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/007_pp2021_2026_pa2024_2025_leg2_page_54.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 25 de agosto de 2016?",
+      "context": [
+        "Asistencia del 05 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/889_pp2006_2011_pa2010_2011_leg1_page_2.png",
+        "Asistencia del 12 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/888_pp2006_2011_pa2010_2011_leg1_page_7.png",
+        "Asistencia del 19 de agosto del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/887_pp2006_2011_pa2010_2011_leg1_page_6.png",
+        "Asistencia del 02 de agosto del 2011 – Primers Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/836_pp2011_2016_pa2011_2012_leg1_page_4.png",
+        "Asistencia del 04 de agosto del 2011 – Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/835_pp2011_2016_pa2011_2012_leg1_page_2.png",
+        "Asistencia del 11 de agosto del 2011 – Primera Legisiatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/834_pp2011_2016_pa2011_2012_leg1_page_8.png",
+        "Asistencia del 23 de agosto del 2011 – * Primera Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/833_pp2011_2016_pa2011_2012_leg1_page_4.png",
+        "Asistencia del 03 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/787_pp2011_2016_pa2012_2013_leg1_page_4.png",
+        "Asistencia del 09 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/786_pp2011_2016_pa2012_2013_leg1_page_16.png",
+        "Asistencia del 16 de agosto del 2012 – Primera Legislatura Ordinaria 2012-2013.\nCongreso 2011-2016 | Periodo anual 2012-2013.\nURL: http://localhost:8080/asistencia/785_pp2011_2016_pa2012_2013_leg1_page_2.png"
+      ]
+    },
+    {
+      "query": "¿Cuál fue la asistencia del Congreso el 23 de noviembre de 2023?",
+      "context": [
+        "Asistencia del 02 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/105_pp2021_2026_pa2023_2024_leg1_page_43.png",
+        "Asistencia del 07 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/104_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 08 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/103_pp2021_2026_pa2023_2024_leg1_page_1.png",
+        "Asistencia del 09 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/102_pp2021_2026_pa2023_2024_leg1_page_62.png",
+        "Asistencia del 15 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/101_pp2021_2026_pa2023_2024_leg1_page_4.png",
+        "Asistencia del 16 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/100_pp2021_2026_pa2023_2024_leg1_page_51.png",
+        "Asistencia del 22 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/099_pp2021_2026_pa2023_2024_leg1_page_4.png",
+        "Asistencia del 23 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/098_pp2021_2026_pa2023_2024_leg1_page_6.png",
+        "Asistencia del 24 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/097_pp2021_2026_pa2023_2024_leg1_page_2.png",
+        "Asistencia del 29 de noviembre del 2023 – Primera Legislatura Ordinaria 2023-2024.\nCongreso 2021-2026 | Periodo anual 2023-2024.\nURL: http://localhost:8080/asistencia/095_pp2021_2026_pa2023_2024_leg1_page_1.png"
+      ]
+    }
+  ],
+  "mes": [
+    {
+      "query": "Dame la asistencia del mes de julio del 2010",
+      "context": [
+        "Asistencia del 27 de julio del 2010 – Primera Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/892_pp2006_2011_pa2010_2011_leg1_page_1.png",
+        "Asistencia del 06 de julio del 2011 – Legislatura extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/838_pp2006_2011_pa2010_2011_leg2_page_6.png",
+        "Asistencia del 07 de julio del 2011 – Legislatura Extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/837_pp2006_2011_pa2010_2011_leg2_page_9.png",
+        "Asistencia del 10 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/919_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/918_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/917_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/916_pp2006_2011_pa2009_2010_leg2_page_11.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/915_pp2006_2011_pa2009_2010_leg2_page_18.png",
+        "Asistencia del 23 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/914_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 30 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/913_pp2006_2011_pa2009_2010_leg2_page_28.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de octubre del 2022",
+      "context": [
+        "Asistencia del 06 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/186_pp2021_2026_pa2022_2023_leg1_page_64.png",
+        "Asistencia del 13 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/185_pp2021_2026_pa2022_2023_leg1_page_61.png",
+        "Asistencia del 19 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/184_pp2021_2026_pa2022_2023_leg1_page_2.png",
+        "Asistencia del 20 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/183_pp2021_2026_pa2022_2023_leg1_page_54.png",
+        "Asistencia del 21 de octubre del 2022 – Primera Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/182_pp2021_2026_pa2022_2023_leg1_page_4.png",
+        "Asistencia del 06 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/260_pp2021_2026_pa2021_2022_leg1_page_1.png",
+        "Asistencia del 19 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/259_pp2021_2026_pa2021_2022_leg1_page_10.png",
+        "Asistencia del 21 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/258_pp2021_2026_pa2021_2022_leg1_page_27.png",
+        "Asistencia del 25 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/257_pp2021_2026_pa2021_2022_leg1_page_1.png",
+        "Asistencia del 28 de octubre del 2021 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/256_pp2021_2026_pa2021_2022_leg1_page_36.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de octubre del 2009",
+      "context": [
+        "Asistencia del 07 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/937_pp2006_2011_pa2009_2010_leg1_page_13.png",
+        "Asistencia del 21 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/936_pp2006_2011_pa2009_2010_leg1_page_2.png",
+        "Asistencia del 22 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/935_pp2006_2011_pa2009_2010_leg1_page_23.png",
+        "Asistencia del 29 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/934_pp2006_2011_pa2009_2010_leg1_page_44.png",
+        "Asistencia del 30 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/933_pp2006_2011_pa2009_2010_leg1_page_2.png",
+        "Asistencia del 05 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/932_pp2006_2011_pa2009_2010_leg1_page_33.png",
+        "Asistencia del 18 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/931_pp2006_2011_pa2009_2010_leg1_page_11.png",
+        "Asistencia del 19 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/930_pp2006_2011_pa2009_2010_leg1_page_18.png",
+        "Asistencia del 25 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/929_pp2006_2011_pa2009_2010_leg1_page_8.png",
+        "Asistencia del 26 de noviembre del 2009 – \" Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/928_pp2006_2011_pa2009_2010_leg1_page_4.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de marzo del 2011",
+      "context": [
+        "Asistencia del 03 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/861_pp2006_2011_pa2010_2011_leg2_page_5.png",
+        "Asistencia del 10 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/860_pp2006_2011_pa2010_2011_leg2_page_1.png",
+        "Asistencia del 17 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/859_pp2006_2011_pa2010_2011_leg2_page_15.png",
+        "Asistencia del 24 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/858_pp2006_2011_pa2010_2011_leg2_page_15.png",
+        "Asistencia del 31 de marzo del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/857_pp2006_2011_pa2010_2011_leg2_page_7.png",
+        "Asistencia del 08 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/809_pp2011_2016_pa2011_2012_leg2_page_14.png",
+        "Asistencia del 15 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/808_pp2011_2016_pa2011_2012_leg2_page_24.png",
+        "Asistencia del 20 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/807_pp2011_2016_pa2011_2012_leg2_page_1.png",
+        "Asistencia del 22 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/806_pp2011_2016_pa2011_2012_leg2_page_13.png",
+        "Asistencia del 23 de marzo del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/805_pp2011_2016_pa2011_2012_leg2_page_1.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de agosto del 2015",
+      "context": [
+        "Asistencia del 05 de agosto del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/621_pp2011_2016_pa2015_2016_leg1_page_2.png",
+        "Asistencia del 12 de agosto del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/620_pp2011_2016_pa2015_2016_leg1_page_4.png",
+        "Asistencia del 20 de agosto del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/619_pp2011_2016_pa2015_2016_leg1_page_9.png",
+        "Asistencia del 26 de agosto del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/618_pp2011_2016_pa2015_2016_leg1_page_8.png",
+        "Asistencia del 27 de agosto del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/617_pp2011_2016_pa2015_2016_leg1_page_4.png",
+        "Asistencia del 05 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015 :.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/674_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 13 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/673_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 21 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/672_pp2011_2016_pa2014_2015_leg1_page_2.png",
+        "Asistencia del 22 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/671_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 26 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/670_pp2011_2016_pa2014_2015_leg1_page_4.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de junio del 2011",
+      "context": [
+        "Asistencia del 01 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/845_pp2006_2011_pa2010_2011_leg2_page_12.png",
+        "Asistencia del 07 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/844_pp2006_2011_pa2010_2011_leg2_page_17.png",
+        "Asistencia del 08 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/843_pp2006_2011_pa2010_2011_leg2_page_21.png",
+        "Asistencia del 09 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/842_pp2006_2011_pa2010_2011_leg2_page_9.png",
+        "Asistencia del 14 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/841_pp2006_2011_pa2010_2011_leg2_page_16.png",
+        "Asistencia del 15 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/840_pp2006_2011_pa2010_2011_leg2_page_23.png",
+        "Asistencia del 16 de junio del 2011 – Segunda Legislatura Ordinaria 2010-2011 parte 2.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/839_pp2006_2011_pa2010_2011_leg2_page_70.png",
+        "Asistencia del 07 de junio del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/791_pp2011_2016_pa2011_2012_leg2_page_17.png",
+        "Asistencia del 14 de junio del 2012 – Segunda Legislatura Ordinaria 2011-2012.\nCongreso 2011-2016 | Periodo anual 2011-2012.\nURL: http://localhost:8080/asistencia/790_pp2011_2016_pa2011_2012_leg2_page_46.png",
+        "Asistencia del 02 de junio del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/900_pp2006_2011_pa2009_2010_leg2_page_17.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de mayo del 2018",
+      "context": [
+        "Asistencia del 02 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/486_pp2016_2021_pa2017_2018_leg2_page_2.png",
+        "Asistencia del 03 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/485_pp2016_2021_pa2017_2018_leg2_page_10.png",
+        "Asistencia del 10 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/484_pp2016_2021_pa2017_2018_leg2_page_34.png",
+        "Asistencia del 17 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/483_pp2016_2021_pa2017_2018_leg2_page_42.png",
+        "Asistencia del 22 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/482_pp2016_2021_pa2017_2018_leg2_page_20.png",
+        "Asistencia del 24 de mayo del 2018 – Segunda Legislatura Ordinaria 2017-2018.\nCongreso 2016-2021 | Periodo anual 2017-2018.\nURL: http://localhost:8080/asistencia/481_pp2016_2021_pa2017_2018_leg2_page_28.png",
+        "Asistencia del 02 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/427_pp2016_2021_pa2018_2019_leg2_page_21.png",
+        "Asistencia del 03 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/426_pp2016_2021_pa2018_2019_leg2_page_2.png",
+        "Asistencia del 08 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/425_pp2016_2021_pa2018_2019_leg2_page_28.png",
+        "Asistencia del 09 de mayo del 2019 – Segunda Legislatura Ordinaria 2018-2019.\nCongreso 2016-2021 | Periodo anual 2018-2019.\nURL: http://localhost:8080/asistencia/424_pp2016_2021_pa2018_2019_leg2_page_2.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de septiembre del 2015",
+      "context": [
+        "Asistencia del 02 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/616_pp2011_2016_pa2015_2016_leg1_page_1.png",
+        "Asistencia del 03 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/615_pp2011_2016_pa2015_2016_leg1_page_14.png",
+        "Asistencia del 09 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/614_pp2011_2016_pa2015_2016_leg1_page_2.png",
+        "Asistencia del 10 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/613_pp2011_2016_pa2015_2016_leg1_page_14.png",
+        "Asistencia del 16 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/612_pp2011_2016_pa2015_2016_leg1_page_6.png",
+        "Asistencia del 18 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/611_pp2011_2016_pa2015_2016_leg1_page_19.png",
+        "Asistencia del 30 de septiembre del 2015 – Primera Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/610_pp2011_2016_pa2015_2016_leg1_page_4.png",
+        "Asistencia del 04 de septiembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/668_pp2011_2016_pa2014_2015_leg1_page_15.png",
+        "Asistencia del 10 de septiembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/667_pp2011_2016_pa2014_2015_leg1_page_1.png",
+        "Asistencia del 11 de septiembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/666_pp2011_2016_pa2014_2015_leg1_page_26.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de marzo del 2015",
+      "context": [
+        "Asistencia del 04 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/646_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 05 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/645_pp2011_2016_pa2014_2015_leg2_page_12.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/643_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/644_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 18 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/642_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 19 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/641_pp2011_2016_pa2014_2015_leg2_page_9.png",
+        "Asistencia del 30 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/640_pp2011_2016_pa2014_2015_leg2_page_2.png",
+        "Asistencia del 03 de marzo del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/590_pp2011_2016_pa2015_2016_leg2_page_1.png",
+        "Asistencia del 10 de marzo del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/589_pp2011_2016_pa2015_2016_leg2_page_23.png",
+        "Asistencia del 17 de marzo del 2016 – Segunda Legislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/588_pp2011_2016_pa2015_2016_leg2_page_28.png"
+      ]
+    },
+    {
+      "query": "Dame la asistencia del mes de enero del 2014",
+      "context": [
+        "Asistencia del 06 de enero del 2014 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/702_pp2011_2016_pa2013_2014_leg1_page_33.png",
+        "Asistencia del 07 de enero del 2014 – Primera Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/701_pp2011_2016_pa2013_2014_leg1_page_1.png",
+        "Asistencia del 26 de enero del 2015 – Primera Legislatura Extraordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/647_pp2011_2016_pa2014_2015_leg1_page_6.png",
+        "Asistencia del 04 de marzo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/700_pp2011_2016_pa2013_2014_leg2_page_16.png",
+        "Asistencia del 13 de marzo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/699_pp2011_2016_pa2013_2014_leg2_page_6.png",
+        "Asistencia del 14 de marzo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/698_pp2011_2016_pa2013_2014_leg2_page_4.png",
+        "Asistencia del 17 de marzo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/697_pp2011_2016_pa2013_2014_leg2_page_2.png",
+        "Asistencia del 27 de marzo del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/696_pp2011_2016_pa2013_2014_leg2_page_35.png",
+        "Asistencia del 03 de abril del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/695_pp2011_2016_pa2013_2014_leg2_page_25.png",
+        "Asistencia del 10 de abril del 2014 – Segunda Legislatura Ordinaria 2013-2014.\nCongreso 2011-2016 | Periodo anual 2013-2014.\nURL: http://localhost:8080/asistencia/694_pp2011_2016_pa2013_2014_leg2_page_8.png"
+      ]
+    }
+  ],
+  "legislatura": [
+    {
+      "query": "Dame los documentos de asistencia de la Primera Legislatura Ordinaria 2021-2022",
+      "context": [
+        "Asistencia del 12 de enero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/244_pp2021_2026_pa2021_2022_leg1_page_25.png",
+        "Asistencia del 13 de enero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/243_pp2021_2026_pa2021_2022_leg1_page_42.png",
+        "Asistencia del 21 de enero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/242_pp2021_2026_pa2021_2022_leg1_page_31.png",
+        "Asistencia del 31 de enero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/241_pp2021_2026_pa2021_2022_leg1_page_26.png",
+        "Asistencia del 01 de febrero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/240_pp2021_2026_pa2021_2022_leg1_page_20.png",
+        "Asistencia del 02 de febrero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/239_pp2021_2026_pa2021_2022_leg1_page_41.png",
+        "Asistencia del 28 de febrero del 2022 – Primera Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/238_pp2021_2026_pa2021_2022_leg1_page_12.png",
+        "Asistencia del 01 de marzo del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/237_pp2021_2026_pa2021_2022_leg2_page_4.png",
+        "Asistencia del 09 de marzo del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/236_pp2021_2026_pa2021_2022_leg2_page_12.png",
+        "Asistencia del 10 de marzo del 2022 – Segunda Legislatura Ordinaria 2021-2022.\nCongreso 2021-2026 | Periodo anual 2021-2022.\nURL: http://localhost:8080/asistencia/235_pp2021_2026_pa2021_2022_leg2_page_31.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Primera Legislatura Ordinaria 2010-2011",
+      "context": [
+        "Asistencia del 10 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/919_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/918_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/917_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/916_pp2006_2011_pa2009_2010_leg2_page_11.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/915_pp2006_2011_pa2009_2010_leg2_page_18.png",
+        "Asistencia del 23 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/914_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 30 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/913_pp2006_2011_pa2009_2010_leg2_page_28.png",
+        "Asistencia del 03 de abril del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/920_pp2006_2011_pa2009_2010_leg2_page_23.png",
+        "Asistencia del 06 de abril del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/912_pp2006_2011_pa2009_2010_leg2_page_2.png",
+        "Asistencia del 07 de abril del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/911_pp2006_2011_pa2009_2010_leg2_page_5.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Legislatura extraordinaria 2010-2011",
+      "context": [
+        "Asistencia del 06 de julio del 2011 – Legislatura extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/838_pp2006_2011_pa2010_2011_leg2_page_6.png",
+        "Asistencia del 07 de julio del 2011 – Legislatura Extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/837_pp2006_2011_pa2010_2011_leg2_page_9.png",
+        "Asistencia del 26 de enero del 2011 – Segunda Legislatura Extraordinaria 2010-2011.\nCongreso 2006-2011 | Periodo anual 2010-2011.\nURL: http://localhost:8080/asistencia/862_pp2006_2011_pa2010_2011_leg1_page_2.png",
+        "Asistencia del 10 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/919_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 11 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/918_pp2006_2011_pa2009_2010_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/917_pp2006_2011_pa2009_2010_leg2_page_1.png",
+        "Asistencia del 17 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/916_pp2006_2011_pa2009_2010_leg2_page_11.png",
+        "Asistencia del 18 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/915_pp2006_2011_pa2009_2010_leg2_page_18.png",
+        "Asistencia del 23 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/914_pp2006_2011_pa2009_2010_leg2_page_10.png",
+        "Asistencia del 30 de marzo del 2010 – Segunda Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/913_pp2006_2011_pa2009_2010_leg2_page_28.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Segunda Legislatura Ordinaria 2022-2023",
+      "context": [
+        "Asistencia del 03 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/152_pp2021_2026_pa2022_2023_leg2_page_49.png",
+        "Asistencia del 09 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/151_pp2021_2026_pa2022_2023_leg2_page_17.png",
+        "Asistencia del 22 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/150_pp2021_2026_pa2022_2023_leg2_page_10.png",
+        "Asistencia del 23 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/149_pp2021_2026_pa2022_2023_leg2_page_63.png",
+        "Asistencia del 29 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/148_pp2021_2026_pa2022_2023_leg2_page_38.png",
+        "Asistencia del 30 de marzo del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/147_pp2021_2026_pa2022_2023_leg2_page_14.png",
+        "Asistencia del 04 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/146_pp2021_2026_pa2022_2023_leg2_page_23.png",
+        "Asistencia del 12 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/145_pp2021_2026_pa2022_2023_leg2_page_28.png",
+        "Asistencia del 14 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/144_pp2021_2026_pa2022_2023_leg2_page_58.png",
+        "Asistencia del 28 de abril del 2023 – Segunda Legislatura Ordinaria 2022-2023.\nCongreso 2021-2026 | Periodo anual 2022-2023.\nURL: http://localhost:8080/asistencia/143_pp2021_2026_pa2022_2023_leg2_page_59.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Segunda Legislatura Ordinaria 2016-2017",
+      "context": [
+        "Asistencia del 01 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/548_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 08 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/547_pp2016_2021_pa2016_2017_leg2_page_7.png",
+        "Asistencia del 09 de marzo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/546_pp2016_2021_pa2016_2017_leg2_page_12.png",
+        "Asistencia del 06 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/545_pp2016_2021_pa2016_2017_leg2_page_10.png",
+        "Asistencia del 12 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/544_pp2016_2021_pa2016_2017_leg2_page_17.png",
+        "Asistencia del 20 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/543_pp2016_2021_pa2016_2017_leg2_page_23.png",
+        "Asistencia del 24 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/542_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 25 de abril del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/541_pp2016_2021_pa2016_2017_leg2_page_2.png",
+        "Asistencia del 03 de mayo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/540_pp2016_2021_pa2016_2017_leg2_page_1.png",
+        "Asistencia del 04 de mayo del 2017 – Segunda Legislatura Ordinaria 2016-2017.\nCongreso 2016-2021 | Periodo anual 2016-2017.\nURL: http://localhost:8080/asistencia/539_pp2016_2021_pa2016_2017_leg2_page_66.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Segunda Legislatura Ordinaria 2015-2016",
+      "context": [
+        "Asistencia del 04 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/646_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 05 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/645_pp2011_2016_pa2014_2015_leg2_page_12.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/643_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/644_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 18 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/642_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 19 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/641_pp2011_2016_pa2014_2015_leg2_page_9.png",
+        "Asistencia del 30 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/640_pp2011_2016_pa2014_2015_leg2_page_2.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/639_pp2011_2016_pa2014_2015_leg2_page_13.png",
+        "Asistencia del 15 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/638_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 17 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/637_pp2011_2016_pa2014_2015_leg2_page_5.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Primera Legislatura Extraordinaria 2014-2015",
+      "context": [
+        "Asistencia del 26 de enero del 2015 – Primera Legislatura Extraordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/647_pp2011_2016_pa2014_2015_leg1_page_6.png",
+        "Asistencia del 18 de junio del 2015 – Segunda Legislatura Extraordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/624_pp2011_2016_pa2014_2015_leg2_page_22.png",
+        "Asistencia del 27 de julio del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/676_pp2011_2016_pa2014_2015_leg1_page_1.png",
+        "Asistencia del 05 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015 :.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/674_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 13 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/673_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 21 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/672_pp2011_2016_pa2014_2015_leg1_page_2.png",
+        "Asistencia del 22 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/671_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 26 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/670_pp2011_2016_pa2014_2015_leg1_page_4.png",
+        "Asistencia del 28 de agosto del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/669_pp2011_2016_pa2014_2015_leg1_page_18.png",
+        "Asistencia del 04 de septiembre del 2014 – Primera Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/668_pp2011_2016_pa2014_2015_leg1_page_15.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Primera Legislatura Ordinaria 2024-2025",
+      "context": [
+        "Asistencia del 06 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/016_pp2021_2026_pa2024_2025_leg2_page_56.png",
+        "Asistencia del 12 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/015_pp2021_2026_pa2024_2025_leg2_page_43.png",
+        "Asistencia del 13 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/014_pp2021_2026_pa2024_2025_leg2_page_63.png",
+        "Asistencia del 19 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/013_pp2021_2026_pa2024_2025_leg2_page_22.png",
+        "Asistencia del 20 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/012_pp2021_2026_pa2024_2025_leg2_page_52.png",
+        "Asistencia del 21 de marzo del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/011_pp2021_2026_pa2024_2025_leg2_page_14.png",
+        "Asistencia del 02 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/010_pp2021_2026_pa2024_2025_leg2_page_40.png",
+        "Asistencia del 03 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/009_pp2021_2026_pa2024_2025_leg2_page_47.png",
+        "Asistencia del 09 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/008_pp2021_2026_pa2024_2025_leg2_page_1.png",
+        "Asistencia del 10 de abril del 2025 – Segunda Legislatura Ordinaria 2024-2025.\nCongreso 2021-2026 | Periodo anual 2024-2025.\nURL: http://localhost:8080/asistencia/007_pp2021_2026_pa2024_2025_leg2_page_54.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Instalacion Primeral egislatura Ordinaria 2015-2016",
+      "context": [
+        "Asistencia del 27 de julio del 2015 – Instalacion Primeral egislatura Ordinaria 2015-2016.\nCongreso 2011-2016 | Periodo anual 2015-2016.\nURL: http://localhost:8080/asistencia/622_pp2011_2016_pa2015_2016_leg1_page_1.png",
+        "Asistencia del 26 de enero del 2015 – Primera Legislatura Extraordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/647_pp2011_2016_pa2014_2015_leg1_page_6.png",
+        "Asistencia del 04 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/646_pp2011_2016_pa2014_2015_leg2_page_8.png",
+        "Asistencia del 05 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/645_pp2011_2016_pa2014_2015_leg2_page_12.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/643_pp2011_2016_pa2014_2015_leg2_page_7.png",
+        "Asistencia del 12 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/644_pp2011_2016_pa2014_2015_leg2_page_4.png",
+        "Asistencia del 18 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/642_pp2011_2016_pa2014_2015_leg2_page_6.png",
+        "Asistencia del 19 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/641_pp2011_2016_pa2014_2015_leg2_page_9.png",
+        "Asistencia del 30 de marzo del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/640_pp2011_2016_pa2014_2015_leg2_page_2.png",
+        "Asistencia del 09 de abril del 2015 – Segunda Legislatura Ordinaria 2014-2015.\nCongreso 2011-2016 | Periodo anual 2014-2015.\nURL: http://localhost:8080/asistencia/639_pp2011_2016_pa2014_2015_leg2_page_13.png"
+      ]
+    },
+    {
+      "query": "Dame los documentos de asistencia de la Prigiera Legislatura Ordinaria 2009-2010",
+      "context": [
+        "Asistencia del 17 de diciembre del 2009 – Prigiera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/921_pp2006_2011_pa2009_2010_leg1_page_31.png",
+        "Asistencia del 07 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/937_pp2006_2011_pa2009_2010_leg1_page_13.png",
+        "Asistencia del 21 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/936_pp2006_2011_pa2009_2010_leg1_page_2.png",
+        "Asistencia del 22 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/935_pp2006_2011_pa2009_2010_leg1_page_23.png",
+        "Asistencia del 29 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/934_pp2006_2011_pa2009_2010_leg1_page_44.png",
+        "Asistencia del 30 de octubre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/933_pp2006_2011_pa2009_2010_leg1_page_2.png",
+        "Asistencia del 05 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/932_pp2006_2011_pa2009_2010_leg1_page_33.png",
+        "Asistencia del 18 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/931_pp2006_2011_pa2009_2010_leg1_page_11.png",
+        "Asistencia del 19 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/930_pp2006_2011_pa2009_2010_leg1_page_18.png",
+        "Asistencia del 25 de noviembre del 2009 – Primera Legislatura Ordinaria 2009-2010.\nCongreso 2006-2011 | Periodo anual 2009-2010.\nURL: http://localhost:8080/asistencia/929_pp2006_2011_pa2009_2010_leg1_page_8.png"
+      ]
+    }
+  ]
+}
